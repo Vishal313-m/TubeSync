@@ -15,14 +15,14 @@ TubeSync is a lightweight web application that allows users to browse and watch 
 - Integrate popular icons from the React Icons library to enhance the user interface.
 
 ## Getting Started
-To get started  you can simply clone this `YouTube-lite` repository and install the dependencies.
+To get started  you can simply clone this `TubeSync` repository and install the dependencies.
 
-Clone the `YouTube-lite` repository using git:
+Clone the `TubeSync` repository using git:
 
 ```bash
 git clone git clone https://github.com/piyushkumarg/YouTube-Clone
 
-cd YouTube-Clone
+cd TubeSync
 ```
 
 Install dependencies with this command:
