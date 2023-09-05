@@ -2,7 +2,7 @@
 
 TubeSync is a lightweight web application that allows users to browse and watch videos. It provides a simplified and intuitive interface for a seamless video watching experience.
 
-### Deployed Application [See Here](https://youtube-piy.netlify.app/)
+
 
 
 
